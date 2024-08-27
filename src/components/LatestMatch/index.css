@@ -1,0 +1,46 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+.latestmatchcard {
+  background-color: #0f172a;
+  border-radius: 10px;
+  padding: 12px;
+}
+.innercard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.teamnamecard {
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.teamlogocard {
+  height: 80px;
+  width: 70px;
+}
+.date {
+  font-size: 17px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.venue {
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.hr1 {
+  border: 1px solid #475569;
+}
+.first {
+  font-size: 15px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.second {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 500;
+}

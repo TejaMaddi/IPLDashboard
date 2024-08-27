@@ -1,0 +1,44 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+.list1matchcard {
+  width: 50%;
+}
+.card-container-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0f172a;
+  border-radius: 10px;
+  width: 90%;
+  padding: 15px;
+  height: 95%;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.teamnamecarddisplay {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 19px;
+}
+.carddisplay {
+  height: 100px;
+  width: 100px;
+}
+.resultcarddisplay {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+}
+.won {
+  color: #18ed66;
+  font-weight: 500;
+  font-size: 19px;
+}
+.lost {
+  color: #e31a1a;
+  font-weight: 500;
+  font-size: 19px;
+}
